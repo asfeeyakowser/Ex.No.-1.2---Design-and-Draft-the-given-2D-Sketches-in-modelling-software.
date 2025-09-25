@@ -26,6 +26,9 @@
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
  ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
+
+
+
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
  
@@ -36,6 +39,11 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+
+
+
+ <img width="1061" height="737" alt="image" src="https://github.com/user-attachments/assets/542485de-cd3c-4c8c-9d6a-c7541b8a04c9" />
+
  
  
  ## RESULT
